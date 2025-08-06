@@ -36,7 +36,7 @@ Before designing any system we should know about `functional` & `non-functional`
 
 ### HLD (High Level Design) :  
 
-We'll look what are the important concepts we should cover in HLD  .
+It's like an architect's initial blueprint for a **house**, showing the different **rooms**, their **placement**, and how they **connect**, but not the specific type of ***wiring*** or ***plumbing*** fixtures in each **room**.
 
 -    **Fundamentals :**  
 
@@ -122,7 +122,57 @@ We'll look what are the important concepts we should cover in HLD  .
 ****
 <br/>
 <br/>
-<br/>
+
+### Low Level Design (LLD)  
+It's the **detailed construction** plan for each **room** of the **house**, specifying the exact placement of **electrical outlets**, the type of **pipes** to be used for **plumbing**, and the **materials** for the **flooring**.  
+
+-    **OOPs :**
+
+     -    _Encapsulation_
+     -    _Abstraction_
+     -    _Inheritance_
+     -    _Polymorphism_
+     -    _SOLID principels_
+
+-    **Design Patterns :**
+
+     -    _Creational (Singletone, factory, etc..)_
+     -    _Structural (Proxy, Bridg, etc...)_
+     -    _Behavioral (strategy, command, observer etc...)_
+
+-    **Concurrency & Thread Safety :**
+
+     -    _Thread Safe Injection_
+     -    _Locking Mechanisms_
+     -    _Producer-Consumer_
+     -    _Race Conditions & Synchronizations_
+
+-    **UML Diagrams :**
+
+     -    _Class Diagrams_
+     -    _Component Diagrams_
+
+-    **APIs :**
+
+     -    _APIs Design_
+     -    _req/res object modeling_
+     -    _Versioning & Extensibility_
+     -    _Clean Code Principel : **DRY(Do Not Repeat), SRP, etc...**_
+     -    _Avoiding God Classes_
+
+-    **Common LLD Problems :**
+
+     -    ***Design a Tic-Tac-Toc or Chess Game***
+     -    ***Design a Splitwise App***
+     -    ***Design a Parking-Lot***
+     -    ***Design a Elevator System With Multiple Lifts***
+     -    ***Design a Notification System***
+     -    ***Design a Food Delivery System***
+     -    ***Design a Movie Booking System***
+     -    ***Design a URL Shortner***
+     -    ***Design a Logging Framework***
+     -    ***Design a Rate Limiter***
+
 
 # Table of contents  
 
