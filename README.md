@@ -46,7 +46,7 @@ We'll look what are the important concepts we should cover in HLD  .
      -    _What are pages_
      -    _How does internet work_  
 
--    **Database :**  
+-    **[Database](https://github.com/Afzal14786/SQL) :**  
 
      -    _SQL v/s no-sql Dbs_
      -    _In memory Dbs_
