@@ -34,7 +34,7 @@ Before designing any system we should know about `functional` & `non-functional`
      -    ***scalable system***
 
 
-### HLD (High Level Design) :  
+### [HLD (High Level Design) ](./docs/HLD/README.md):  
 
 It's like an architect's initial blueprint for a **house**, showing the different **rooms**, their **placement**, and how they **connect**, but not the specific type of ***wiring*** or ***plumbing*** fixtures in each **room**.
 
