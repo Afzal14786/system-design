@@ -66,3 +66,23 @@ One of the most famous serverless architecture is **Function as a Service (FaaS)
 
     -   **Deployment Package Size:** The size of your code and its dependencies is also limited.
 
+### Serverful Architecture  
+
+**Serverful architecture** refers to the system design in which the `developer` is responsible to manage the entire `infrastructure` . Means that the developer who is writing code, he have to maintain the **hardware**, **software**, **networking** **components**, **security checks** and updates etc. ,   
+_**Example:**_  
+-   If you are a software developer and you are building a system and for your system you are selecting serverful architecture, then you always have to manage following things:
+
+    - **Managing The Entire Infrastructure:** _Like OS _(Operating System)_, Storage, RAM, Security Updates, Networking And It's Components, Heating Issues, etc..._
+
+    - **Managing The Scalling or With Auto-Scale** : _In the early stage your system is used by around 100 peoples and now over a night, your system is used by 100 M peoples, in this case you have to manage the scalling_
+
+    - **You have full control on the infrastructure:** _This is the best because you have full control of the infrastructure_ 
+
+    - **Cost:** _Cost are primerly driven by provisioning for peek demand. We have to estimate out maximum required capacity and pay for it upfront, whether the server is used or not_
+
+    - **Fast** : Compare to the serverless architecture, it is fast because all the time the server is running .
+
+![Serverful Architecture](./hld_icons/serverfullarchitecture.png) 
+
+**Now here is some difference between serverless v/s serverful architecture**
+![Serverless v/s serverful](./hld_icons/serverlessVSserverful.png)
